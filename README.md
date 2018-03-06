@@ -1,3 +1,11 @@
+IMPORTANT
+=========
+
+This package moved to a monorepo.
+https://github.com/sonnyp/JSON8/tree/master/packages/merge-patch
+
+------
+
 JSON8 Merge Patch
 =================
 
